@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+#nav {
+  width: 100%;
+  height: 45px; }
+  #nav img {
+    width: 100%;
+    height: 80%; }
+
+nav {
+  font-size: 28px;
+  width: 100%;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  background: #f3d9c8;
+  margin-top: -10px;
+  text-align: center; }
+  nav .icon-arrow-left2, nav p {
+    color: #8e573e;
+    margin: 6px; }
+  nav .tijiao {
+    width: 6.5rem;
+    height: 30px;
+    line-height: 30px;
+    margin-left: 35%;
+    font-size: 18px;
+    background: #d3503e;
+    color: #FFF;
+    border-radius: 5px; }
+
+form {
+  width: 100%; }
+  form p {
+    border-bottom: 2px solid #E7E7E7;
+    height: 52px;
+    line-height: 52px; }
+    form p button {
+      position: absolute;
+      width: 6.5rem;
+      height: 3rem;
+      right: 1rem;
+      text-align: center;
+      background: #EEEEEE;
+      color: #AAAAAA;
+      border: 0;
+      border-radius: 5px; }
+    form p input {
+      border: 0;
+      height: 48px;
+      line-height: 48px;
+      margin-left: 1rem;
+      color: #CDCDCD; }
+  form div {
+    position: absolute;
+    right: 1rem;
+    color: #CDCDCD; }
+
+/*# sourceMappingURL=jh.css.map */

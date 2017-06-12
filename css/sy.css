@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+#nav img {
+  width: 100%;
+  height: auto; }
+
+form p {
+  margin-left: 10px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #F5F5F5; }
+  form p img {
+    width: 20%;
+    height: 100%; }
+  form p input {
+    width: 80%;
+    border: 0;
+    height: 50dp;
+    color: #AAA;
+    margin-left: 10px; }
+
+/*# sourceMappingURL=sy.css.map */
